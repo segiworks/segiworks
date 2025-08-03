@@ -908,6 +908,11 @@ footer {
     margin-top: 0;
     color: var(--primary-blue);
 }
+.button1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 #footer {
   background: #191970;
