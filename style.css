@@ -915,7 +915,8 @@ footer {
 }
 
 #footer {
-  background: #191970;
+  background: url('https://i.pinimg.com/1200x/55/64/21/5564218f4071132087034a7c0605fac8.jpg') no-repeat center center;
+  background-size: cover;
   color: #fff;
   padding: 48px 0 0 0;
 }
