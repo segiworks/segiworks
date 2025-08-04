@@ -42,7 +42,8 @@ body {
     font-family: 'Roboto', sans-serif;
     color: var(--neutral-800);
     line-height: 1.5;
-    background-color: white;
+    background: url('https://i.pinimg.com/736x/2f/84/d4/2f84d470101c0f654b26f734405088ca.jpg') no-repeat center center;
+    background-size: cover;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -915,7 +916,7 @@ footer {
 }
 
 #footer {
-  background: url('https://i.pinimg.com/1200x/55/64/21/5564218f4071132087034a7c0605fac8.jpg') no-repeat center center;
+  background: url('https://i.pinimg.com/1200x/4c/d0/01/4cd001ae8fe5794b5772e0d0efe9dbaa.jpg') no-repeat center center;
   background-size: cover;
   color: #fff;
   padding: 48px 0 0 0;
