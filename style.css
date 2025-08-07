@@ -493,6 +493,9 @@ header.scrolled {
 }
 
 /* Prizes & Jury */
+.gambar-benar {
+    margin-left: 225px;
+}
 .prizes-jury-content {
     display: flex;
     flex-direction: column;
